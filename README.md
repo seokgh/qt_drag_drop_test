@@ -1,0 +1,1 @@
+# qt_drag_drop_test
